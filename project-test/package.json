@@ -1,0 +1,37 @@
+{
+  "name": "ai-generated-app",
+  "version": "1.0.0",
+  "description": "AI Generated Web Application - Created by Zapier Automation",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "live-server .",
+    "build": "echo 'No build process needed for vanilla HTML/CSS/JS'",
+    "deploy": "echo 'Ready to deploy to any static hosting service'"
+  },
+  "keywords": [
+    "ai-generated",
+    "zapier",
+    "automation",
+    "web-app",
+    "html",
+    "css",
+    "javascript",
+    "gemini-ai"
+  ],
+  "author": "AI + Zapier Automation",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sebairx/Workflow-Test-.git"
+  },
+  "homepage": "https://sebairx.github.io/Workflow-Test-/project-test/",
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
